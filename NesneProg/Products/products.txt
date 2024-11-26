@@ -1,4 +1,0 @@
-Phone, 1499.99, 5, Apple
-Computer, 3799.50, 2, None
-Coat, 240, 1, None
-
